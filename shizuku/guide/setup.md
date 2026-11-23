@@ -1,4 +1,4 @@
-# User manual
+adb shell sh /storage/emulated/0/Android/data/com.diffmemorymas.gamemode.pro/files/start.sh# User manual
 
 [[toc]]
 
